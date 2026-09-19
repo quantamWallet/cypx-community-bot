@@ -1,0 +1,7 @@
+{
+  "name":"cypx-community-protector",
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{"start":"node index.js"},
+  "dependencies":{"@whiskeysockets/baileys":"latest","express":"^4.21.2","pino":"^9.6.0","qrcode-terminal":"^0.12.0"}
+}
